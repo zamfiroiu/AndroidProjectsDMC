@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">D06ControaleSimpleXML</string>
+    <string name="tv1_text">TextView 1</string>
+    <string name="et1_hint">Introduceti text</string>
+    <string name="btn1_text">Buton</string>
+    <string name="rb1_text">Varianta 1</string>
+    <string name="rb2_text">A doua varianta</string>
+    <string name="rb3_text">A treia varianta</string>
+    <string name="cb1_text">Bifeaza</string>
+<string-array name="variante">
+    <item>Varianta 1</item>
+    <item>Varianta 2</item>
+    <item>Varianta 3</item>
+    <item>Varianta 4</item>
+</string-array>
+</resources>

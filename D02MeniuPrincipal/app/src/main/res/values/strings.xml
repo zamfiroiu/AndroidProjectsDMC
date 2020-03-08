@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">D02MeniuPrincipal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activ1_text">Activitatea 1</string>
+    <string name="activ2_text">Activitatea 2</string>
+    <string name="toast1_text">Toast 1</string>
+    <string name="toast2_text">Toast 2</string>
+</resources>

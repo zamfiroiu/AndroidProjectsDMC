@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">D04Containere</string>
+    <string name="tv1_text">TextView 1</string>
+    <string name="tv2_text">TextView 2</string>
+    <string name="tv3_text">TextView 3</string>
+</resources>

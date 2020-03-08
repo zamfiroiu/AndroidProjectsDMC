@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">D05ScrollView</string>
+    <string name="tv1_text">TextView 1</string>
+    <string name="tv2_text">TextView 2</string>
+    <string name="tv3_text">TextView 3</string>
+    <string name="tv4_text">TextView 4</string>
+</resources>
