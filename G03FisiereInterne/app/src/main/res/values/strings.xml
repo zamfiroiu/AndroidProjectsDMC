@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">G03FisiereInterne</string>
+    <string name="salveaza_in_fisier">Salveaza in fisier</string>
+    <string name="citeste_din_fisier">Citeste din fisier</string>
+</resources>

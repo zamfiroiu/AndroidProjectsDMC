@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">H01BazaDeDateSQLite</string>
+    <string name="afiseaza_cafea_cu_caramel">Afiseaza cafea cu Caramel</string>
+    <string name="insereaza_cafele">Insereaza Cafele</string>
+</resources>
