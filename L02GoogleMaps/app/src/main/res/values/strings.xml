@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">L02GoogleMaps</string>
+    <string name="harta">Harta</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
